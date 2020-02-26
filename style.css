@@ -1,0 +1,15 @@
+.ui.borderless.topmenu.menu {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#bungie-logo {
+  background: url("https://www.bungie.net/img/theme/bungienet/bungie_logo_with_shield.svg") no-repeat;
+}
+
+.ui.borderless.footer.menu {
+  align-content: center;
+  background-color: #41403d;
+  margin-top: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
